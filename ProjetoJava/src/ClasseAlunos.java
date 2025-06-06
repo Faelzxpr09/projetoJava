@@ -1,5 +1,5 @@
 
-public class ClasseAlunos {
+public class ClasseAlunos extends ClassePessoas{
 	float notaAt;
 	String cursoAt;
 	
